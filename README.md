@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hola, soy [Samuel]
 
-<!--
-**samuel-tapia/samuel-tapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Desarrollador web*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 🎓 Estudiando **Desarrollo de Aplicaciones Web** (CFGS)
+- 💻 Me interesa el desarrollo **frontend y backend**
+- 🌱 Stack: `.NET`, `SQL`, `JavaScript`, `Python`
+
+---
+
+## 📊 Estadísticas GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=samuel-tapia&show_icons=true&theme=dark)
+
+---
+
+## 🔗 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/samuel-tapia-garcia-6b08a1205/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/samuel-tapia)
+
+---
+
+> **Nota:** Este README está escrito en Markdown. 
+> El código fuente está disponible [aquí](./README.md).
