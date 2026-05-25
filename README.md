@@ -1,4 +1,4 @@
-# Hola, soy [Samuel Tapia] 👋
+# Hola, soy Samuel Tapia 👋
 
 > Estudiante de **Desarrollo de Aplicaciones Web (DAW)** 
 
