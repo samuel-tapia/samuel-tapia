@@ -1,14 +1,14 @@
 # Hola, soy Samuel Tapia 👋
 
-> Estudiante de **Desarrollo de Aplicaciones Web (DAW)** 
+> Titulado de **Desarrollo de Aplicaciones Web (DAW)** 
 
 ---
 
 ## Sobre mí
 
-- 🎓 Cursando **DAW** (Desarrollo de Aplicaciones Web)
-- 💼 En prácticas como desarrollador fullstack
-- 📍 España
+- 🎓 Cursando **Ingenieria Informática**
+- 💼 Desarrollador fullstack, con enfoque en Backend
+- 📍 Barcelona, España
 - 🔭 Aprendiendo cada día más sobre arquitectura web y desarrollo full-stack
 
 ---
